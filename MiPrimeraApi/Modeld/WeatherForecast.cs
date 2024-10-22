@@ -1,4 +1,4 @@
-namespace MiPrimeraApi
+namespace MiPrimeraApi.Modeld
 {
     public class WeatherForecast
     {

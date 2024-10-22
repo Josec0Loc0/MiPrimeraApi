@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using MiPrimeraApi.Modeld;
 
 namespace MiPrimeraApi.Controllers
 {
